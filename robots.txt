@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anandratra1234.github.io/fiberfind-gandhinagar/sitemap.xml
